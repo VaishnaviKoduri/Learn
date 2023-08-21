@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //this is test comment from subhash.
     int arr[3][3];
     int i,j,row,sum;
     int min;
